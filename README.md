@@ -13,3 +13,4 @@ It performs basic arithmetic operations:
 - Scanner class for input  
 
 This project is a part of my Java learning journey.
+my first ever little project
